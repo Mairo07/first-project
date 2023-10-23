@@ -1,0 +1,11 @@
+.section {
+  background-color: rgb(247, 244, 221);
+  color: rgb(162, 192, 219);
+  width: 50%;
+  margin: 0 auto;
+}
+
+.title {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
